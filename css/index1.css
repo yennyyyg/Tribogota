@@ -1,18 +1,43 @@
 
-body {
-  background-color: #f8f9fa;
-}
-header {
-  background-color: #007bff;
-  color: #fff;
-  padding: 20px;
-  text-align: center;
-}
-.featured-image {
-  width: 100%;
-  max-height: 400px;
-  object-fit: cover;
-}
-.blog-post {
-  margin-bottom: 30px;
-}
+    header {
+      background-color: #edeeee;
+      color: #100f0f;
+      padding: 20px;
+      text-align: center;
+    }
+    .navbar {
+      background-color: #000000;
+    }
+    .navbar-dark .navbar-toggler-icon {
+      background-color: #000000;
+    }
+    .featured-image {
+      width: 80%;
+      
+      object-fit: cover;
+    }
+    .blog-post {
+      margin-bottom: 30px;
+    }
+    footer {
+      background-color: #222121;
+      color: #fff4f4;
+      padding: 20px;
+      text-align: center;
+    }
+    .social-icons {
+      font-size: 24px;
+      margin-right: 10px;
+      color: #000000;
+    }
+    .card {
+      margin-bottom: 20px;
+    }
+    .modal-content {
+      background-color: #dc3545;
+      color: #fff;
+    }
+   
+    .accordion-item {
+      margin-bottom: 10px;
+    }
